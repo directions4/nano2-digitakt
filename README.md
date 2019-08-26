@@ -18,7 +18,7 @@ Korg nanoPAD2 and nanpKONTROL2 setting files for [Elektron Digitakt](https://www
 
 |  Label       |       Value      |
 | ------------ | ---------------- |
-| **Knob**     | Filter Resonance |
+| **Knob**     | Filter Frequency |
 | **Solo Btn** | Filter Trigger   |
 | **Mute Btn** | Mute             |
 | **Rec Btn**  | LFO Trigger      |
