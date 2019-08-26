@@ -2,6 +2,8 @@
 
 Korg nanoPAD2 and nanoKONTROL2 setting files for [Elektron Digitakt](https://www.elektron.se/products/digitakt/).
 
+![digitakt](images/digitakt.jpg)
+
 ## for nanoPAD2
 
 * digitakt.nanopad2_glob
